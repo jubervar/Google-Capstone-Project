@@ -1,5 +1,5 @@
-# Google Capstone Project
-Capstone project for the Google Data Analytics Professional Certificate.
+# Bellabeat Case Study
+Capstone project for the Google Data Analytics Professional Certificate. Bellabeat is a company dedicated to the design and manufacturing of health-focused products for women. The case study looks to identify customer trends in the use of one of Bellabeat's smart devices in order to produce useful recommendations for guiding their future marketing strategies.
 Last updated: 12/23/2021
 
 ## Data Sources
