@@ -8,3 +8,4 @@ Data was generated through Amazon Mechanical Turk, a crowd-sourcing service. Thi
 
 ## Data Cleaning and Manipulation
 
+Data files were too large for manipulation in Excel. Data cleaning and manipulation was thus performed using the R language.
