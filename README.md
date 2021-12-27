@@ -1,3 +1,10 @@
 # Google Capstone Project
 Capstone project for the Google Data Analytics Professional Certificate.
 Last updated: 12/23/2021
+
+## Data Sources
+
+Data was generated through Amazon Mechanical Turk, a crowd-sourcing service. This means the data comes from individuals who are not organic users of Bellabeat products but instead were paid to test these products and record the required data, which could lead to some bias that must be taken into account. The users provided personal tracker data including minute-level output for physical activity, heart rate, and sleep monitoring. Unique keys can be generated for each entry by considering both user id and time stamp. The data covers the 03.12.2016-05.12.2016 time period, making it outdated for current use but still useful as an analysis exercise. The dataset was shared for open-access on the widely recognized website *Zenodo*.
+
+## Data Cleaning and Manipulation
+
