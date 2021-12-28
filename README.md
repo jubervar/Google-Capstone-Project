@@ -8,4 +8,9 @@ Data was generated through Amazon Mechanical Turk, a crowd-sourcing service. Thi
 
 ## Data Cleaning and Manipulation
 
-Data files were too large for manipulation in Excel. Data cleaning and manipulation was thus performed using the R language.
+Data files were too large for manipulation in Excel. Data cleaning and manipulation was thus performed using the R language. The data cleaning efforts included the following:
+* Search for null or missing data
+* Removal of duplicates
+* Change of variable labels to more comprehensive ones
+* Verifying that data makes sense considering business logic
+
