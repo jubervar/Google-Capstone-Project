@@ -14,4 +14,5 @@ Data files were too large for manipulation in Excel. Data cleaning and manipulat
 * Change of variable labels to more comprehensive ones
 * Verifying that data makes sense considering business logic
 * Aggregation of data
+
 For code see [here](https://github.com/jubervar/Google-Capstone-Project/blob/master/data_cleaning.r).
