@@ -22,4 +22,5 @@ For code see [here](https://github.com/jubervar/Google-Capstone-Project/blob/mas
 * Analyze heartrate accross the day to determine at what time are bellabeat customers more active. Could do a similar analysis for intensity across the day, and also for METs.
 * From the average total distance compare what portion is from logged activities and what is from regular tracking.
 * Compare average distances and times spent in each level of activity (very active, moderate, light, sedentary).
+* Study how sleep values change throughout sleeping cycles.
 * Analyze if average sleep value changes significantly depending on the total sleep records of the day.
