@@ -16,3 +16,10 @@ Data files were too large for manipulation in Excel. Data cleaning and manipulat
 * Aggregation of data
 
 For code see [here](https://github.com/jubervar/Google-Capstone-Project/blob/master/data_cleaning.r).
+
+## Ideas for Analysis
+
+* Analyze heartrate accross the day to determine at what time are bellabeat customers more active. Could do a similar analysis for intensity across the day, and also for METs.
+* From the average total distance compare what portion is from logged activities and what is from regular tracking.
+* Compare average distances and times spent in each level of activity (very active, moderate, light, sedentary).
+* Analyze if average sleep value changes significantly depending on the total sleep records of the day.
