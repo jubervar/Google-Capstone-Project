@@ -19,9 +19,9 @@ For code see [here](https://github.com/jubervar/Google-Capstone-Project/blob/mas
 
 ## Ideas for Analysis
 
-* Analyze heartrate accross the day to determine at what time are bellabeat customers more active. Could do a similar analysis for intensity across the day, and also for METs.
-* From the average total distance compare what portion is from logged activities and what is from regular tracking.
-* Compare average distances and times spent in each level of activity (very active, moderate, light, sedentary).
-* Study how sleep values change throughout sleeping cycles.
-* Analyze if average sleep value changes significantly depending on the total sleep records of the day.
-* Compare average calories burned across the week. You could identify days of lowest calory burning. On a user-level you could identify typical days of lower calory burning and send him reminders to exercise and move more.
+* Analyze heartrate accross the day to determine at what time are bellabeat customers more active. Could do a similar analysis for METs across the day. **Done**
+* From the average total distance compare what portion is from logged activities and what is from regular tracking. **Done**
+* Compare average distances and times spent in each level of activity (very active, moderate, light, sedentary). **Done**
+* Study how sleep values change throughout sleeping cycles. **Under construction**
+* Analyze if average sleep value changes significantly depending on the total sleep records of the day. **Under construction**
+* Compare average calories burned across the week. You could identify days of lowest calory burning. On a user-level you could identify typical days of lower calory burning and send him reminders to exercise and move more. **Under construction**
