@@ -24,3 +24,4 @@ For code see [here](https://github.com/jubervar/Google-Capstone-Project/blob/mas
 * Compare average distances and times spent in each level of activity (very active, moderate, light, sedentary).
 * Study how sleep values change throughout sleeping cycles.
 * Analyze if average sleep value changes significantly depending on the total sleep records of the day.
+* Compare average calories burned across the week. You could identify days of lowest calory burning. On a user-level you could identify typical days of lower calory burning and send him reminders to exercise and move more.
