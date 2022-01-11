@@ -25,10 +25,11 @@ For code see [here](https://github.com/jubervar/Google-Capstone-Project/blob/mas
 * Define what average calories burned per day is and what range a normal day covers. Based on this generalized data one could congratulate users when they are able to burn an overly high amount of calories, or send little reminders to exercise on the following days for users that burn an abnormally low number of calories. Of course this last function should only notify the user for a few days and not be constant so it doesn't create unhealthy pressure. **Done**
 * Compare the total time in bed and how users spend this time depending on the total number of sleeping records. **Done**
 * Calculate how often do users record two or more major sleeping records. If big enough this could motivate the company to create ads that showcase the device's capabilities of helping the user control his sleeping schedule. **Done**
+* Compare average calories burned across the week for a specific user. On a user-level you could identify typical days of lower calory burning and send him reminders to exercise and move more. **Done**
+* Do a similar analysis from before but for heartrate. On a user-level you could identify these prolonged times of low acivity, not asleep, and remind the user to keep moving. **Under construction**
 * Study the average time at which people tend to involve in the different levels of intensity (sedentary, light, moderate, very active). **Done**
 * Study how sleep values change throughout sleeping cycles. **Under construction**
 * Analyze if average sleep value changes significantly depending on the total sleep records of the day. **Under construction**
-* Compare average calories burned across the week for a specific user. On a user-level you could identify typical days of lower calory burning and send him reminders to exercise and move more. **Under construction**
 
 ## Conclusions
 
