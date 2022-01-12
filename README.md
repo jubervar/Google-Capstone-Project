@@ -17,7 +17,7 @@ Data files were too large for manipulation in Excel. Data cleaning and manipulat
 
 For code see [here](https://github.com/jubervar/Google-Capstone-Project/blob/master/data_cleaning.r).
 
-## Ideas for Analysis
+<> (## Ideas for Analysis
 
 * Analyze heartrate across the day to determine at what time are bellabeat customers more active. Could do a similar analysis for METs across the day. **Done**
 * From the average total distance compare what portion is from logged activities and what is from regular tracking. **Done**
@@ -27,14 +27,23 @@ For code see [here](https://github.com/jubervar/Google-Capstone-Project/blob/mas
 * Calculate how often do users record two or more major sleeping records. If big enough this could motivate the company to create ads that showcase the device's capabilities of helping the user control his sleeping schedule. **Done**
 * Compare average calories burned across the week for a specific user. On a user-level you could identify typical days of lower calory burning and send him reminders to exercise and move more. **Done**
 * Do a similar analysis from before but for heartrate. On a user-level you could identify these prolonged times of low acivity, not asleep, and remind the user to keep moving. **Under construction**
-* Study the average time at which people tend to involve in the different levels of intensity (sedentary, light, moderate, very active). **Done**
-* Study how sleep values change throughout sleeping cycles. **Under construction**
-* Analyze if average sleep value changes significantly depending on the total sleep records of the day. **Under construction**
+* Study the average time at which people tend to involve in the different levels of intensity (sedentary, light, moderate, very active). **Under construction**
 
-## Conclusions
+)
+
+## Insights
 
 * Users spend most of their time in a sedentary state, with less than 25% of their time in any kind of serious activity that could range from walking to a full-on workout. Out of that portion of the day they are active, it's mostly spent on the lightly active stage (e.g. walking).
 * Major part of distances recorded by users are tracked automatically by the smart device, not logged manually. This could be interpreted as that the distances traveled by users just walking on their day to day is much more significant than what they travel on portions of the day specifically focused on exercise. This enhances the importance of day-to-day casual movement in overall health. Users rely a lot on this type of indirect exercise.
 * Users' heartrate, METs and level of intensity across the day all behave similarly, showing a drop around the night hours where subjects tend to sleep and two peaks at around 1pm and 8 pm, separated by a slight drop between the two.
 * Users that rely on two major sleeping periods tend to spend more time in bed, this extra portion of time spent primarily asleep.
 * It would seem at first sight that, around people, there is no agreed upon day of the week for being more active. However, one must take into accout that most people burn an around 1800 calories per day for maintaining vital functions (so no activity involved). Taking this into account the variations between days become more significant and we can conclude that Tuesdays and Saturdays are the days where higher calory expenditure happens (so these are the most active days for most users).
+
+## Recommendations
+
+The following recommendations are based on the insights listed above.
+
+* Provide users with regular notifications to remind them to stay active. During these notifications the focus should be on low inensity activities like walking. For example the notification could include bits of information on the benefits of walking on long term health.
+* The times at which these notifications show for each user will vary based on their own data. When the device detects the user is asleep or on his usual sleeping times no notifications should show up at all. Users could receive on a regular basis (not every single day, maybe randomized) notifications at around 1pm and 8pm reminding them to stay active.
+* The device could keep track of each user's day of traditionally lower calory spending. Based on this the device could present the user with this information, a comparison with the day of highest calory spending and provide some motivation.
+* 
