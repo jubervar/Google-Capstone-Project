@@ -17,7 +17,7 @@ Data files were too large for manipulation in Excel. Data cleaning and manipulat
 
 For code see [here](https://github.com/jubervar/Google-Capstone-Project/blob/master/data_cleaning.r).
 
-<> (## Ideas for Analysis
+## Ideas for Analysis
 
 * Analyze heartrate across the day to determine at what time are bellabeat customers more active. Could do a similar analysis for METs across the day. **Done**
 * From the average total distance compare what portion is from logged activities and what is from regular tracking. **Done**
@@ -28,8 +28,6 @@ For code see [here](https://github.com/jubervar/Google-Capstone-Project/blob/mas
 * Compare average calories burned across the week for a specific user. On a user-level you could identify typical days of lower calory burning and send him reminders to exercise and move more. **Done**
 * Do a similar analysis from before but for heartrate. On a user-level you could identify these prolonged times of low acivity, not asleep, and remind the user to keep moving. **Under construction**
 * Study the average time at which people tend to involve in the different levels of intensity (sedentary, light, moderate, very active). **Under construction**
-
-)
 
 ## Insights
 
@@ -46,4 +44,4 @@ The following recommendations are based on the insights listed above.
 * Provide users with regular notifications to remind them to stay active. During these notifications the focus should be on low inensity activities like walking. For example the notification could include bits of information on the benefits of walking on long term health.
 * The times at which these notifications show for each user will vary based on their own data. When the device detects the user is asleep or on his usual sleeping times no notifications should show up at all. Users could receive on a regular basis (not every single day, maybe randomized) notifications at around 1pm and 8pm reminding them to stay active.
 * The device could keep track of each user's day of traditionally lower calory spending. Based on this the device could present the user with this information, a comparison with the day of highest calory spending and provide some motivation.
-* 
+* Bellabeat should look to focus its advertising on Tuesdays and Saturdays, the days of highest calory expenditure. These are gonna be the days where most people interested in fitness and being active will have those ideas more fresh, so they will be more likely to consider buying a product from Bellabeat.
